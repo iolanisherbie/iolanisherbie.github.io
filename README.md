@@ -1,3 +1,5 @@
-# iolanisherbie.github.io
+# Sherbie's Student Site
 
-hello
+This is a coded static website created as part of an in-class exercise during my summer Web Design Studio class
+
+[View my Site](https://iolanisherbie.github.io/)
